@@ -10,7 +10,7 @@ This app training on colab with GPU , number class training 10 (circle,apple,dia
 <div align="center">
 
 <img src="image test/cnn_layer.jpg" width="700px"/>
-<p>CNN architecture </b> cnn.</p>
+<p> CNN </b>  architecture.</p>
 
 </div>
 
