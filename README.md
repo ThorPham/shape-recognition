@@ -17,6 +17,6 @@ This app training on colab with GPU , number class training 10 (circle,apple,dia
 Accuracy on training data is 95%, testing is 94%
 
 * How to app work !
- * Type cmd and run file app_shape.py
- * Choose pen width and draw shape
- * Export image and then run recognite object
+  * Type cmd and run file app_shape.py
+  * Choose pen width and draw shape
+  * Export image and then run recognite object
