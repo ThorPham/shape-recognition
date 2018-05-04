@@ -20,3 +20,5 @@ Accuracy on training data is 95%, testing is 94%
   * Type cmd and run file app_shape.py
   * Choose pen width and draw shape
   * Export image and then run recognite object
+* Video demo:
+https://www.youtube.com/watch?v=4FC4gqbDOZI
