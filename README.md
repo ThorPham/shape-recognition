@@ -7,7 +7,12 @@ This app training on colab with GPU , number class training 10 (circle,apple,dia
   * playsound,numpy
 * cnn architecture
 
-!(cnn)[image test/cnn_layer.jpg]
+<div align="center">
+
+<img src="image test/cnn_layer.jpg" width="700px"/>
+<p>CNN architecture </b> cnn.</p>
+
+</div>
 
 Accuracy on training data is 95%, testing is 94%
 
